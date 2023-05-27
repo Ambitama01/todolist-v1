@@ -24,7 +24,7 @@ To get started with the application, follow these steps:
 1. Clone the repository: `git clone https://github.com/Ambitama01/todo-list.git`
 2. Navigate to the project directory: `cd todo-list`
 3. Install the dependencies: `npm install`
-4. Start the server: `node app.js`
+4. Start the server: `nodemon app.js`
 5. Open your web browser and go to `http://localhost:3000`
 
 ## Usage
