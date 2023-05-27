@@ -38,9 +38,9 @@ To get started with the application, follow these steps:
 
 ## Screenshots
 
-![Screenshot 1]<img width="1440" alt="image" src="https://github.com/Ambitama01/todolist-v1/assets/115911065/19f446fc-6c18-44f9-93a1-b27442241011">
+[Screenshot 1]<img width="1440" alt="image" src="https://github.com/Ambitama01/todolist-v1/assets/115911065/19f446fc-6c18-44f9-93a1-b27442241011">
 
-![Screenshot 2]<img width="1438" alt="image" src="https://github.com/Ambitama01/todolist-v1/assets/115911065/86b85263-0221-4c66-8fbd-2302feea5e18">
+[Screenshot 2]<img width="1438" alt="image" src="https://github.com/Ambitama01/todolist-v1/assets/115911065/86b85263-0221-4c66-8fbd-2302feea5e18">
 
 
 ## Contributing
