@@ -1,5 +1,3 @@
-Sure! Here's an example of a README file for a to-do list application made using EJS:
-
 # To-Do List Application
 
 This is a simple web application that allows you to create and manage your to-do list.
@@ -8,7 +6,7 @@ This is a simple web application that allows you to create and manage your to-do
 
 - Add new tasks to the to-do list
 - Mark tasks as completed
-- Delete tasks from the list
+<!-- - Delete tasks from the list -->
 
 ## Technologies Used
 
