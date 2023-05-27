@@ -34,8 +34,9 @@ To get started with the application, follow these steps:
 - Upon opening the application, you will see the to-do list interface.
 - To add a new task, enter the task description in the input field and click the "Add" button.
 - To mark a task as completed, click the checkbox next to the task.
-- To delete a task, click the "Delete" button next to the task.
-- You can view your updated to-do list with the added, completed, and deleted tasks.
+<!-- - To delete a task, click the "Delete" button next to the task. -->
+- You can view your updated to-do list with the added, completed.
+<!-- - , and deleted tasks. -->
 
 ## Screenshots
 
